@@ -1,0 +1,8 @@
+bdbec74c6e5bd72edee867077d70896c
+::res://::1686929919
+export_presets.cfg::TextFile::-1::1686929898::0::1::::<><>::
+icon.svg::CompressedTexture2D::1590340335124922382::1686863742::1686863747::1::::<><>::
+objects.png::CompressedTexture2D::1869184523022688620::1686927965::1686927966::1::::<><>::
+plains.png::CompressedTexture2D::4698761937645833034::1686927567::1686927568::1::::<><>::
+test scene.tscn::PackedScene::6749672765895458111::1686929915::0::1::::<><>::uid://b77d6msqcc3bi<>uid://1vpgwtx0gqns<>res://TouchCameraController.gd
+TouchCameraController.gd::GDScript::-1::1686929876::0::1::::<>Camera2D<>::
